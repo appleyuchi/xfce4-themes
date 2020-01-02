@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Hacking_Parrot
+Comment=Parrot_os
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Hacking_Parrot
+GtkTheme=Hacking_Parrot
+IconTheme=Hacking_Parrot
+MetacityTheme=Hacking_Parrot
