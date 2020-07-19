@@ -790,7 +790,7 @@ printdialog paper {
  padding: 0;
 }
 .dialog-vbox {
-background: @bg_normal;
+background: bg_normal;
 }
 /*
 printdialog paper:backdrop { color: #929595; border-color: #d5d0cc; }
